@@ -14,3 +14,5 @@ apply plugin: 'io.alcide.gradle-semantic-build-versioning'
 rootProject.name="ns4kafka"
 include 'cli'
 include 'api'
+include 'kustomize'
+
